@@ -5,4 +5,4 @@
 <br/>
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/YTJoseGames/DiscordJS-V14-Handler?style=for-the-badge)
