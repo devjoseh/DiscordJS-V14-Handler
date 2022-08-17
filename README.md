@@ -18,3 +18,9 @@ Em breve teremos vários outros sistemas todos em V14 para o seu bot. segue a li
 - [ ] Interação
 - [ ] Diversão
 - [ ] Música
+
+## 💻 Pré-requisitos
+
+Antes de instalar, verifique se você atende aos seguintes requisitos:
+
+* Você instalou a versão mais recente do `<a href="https://nodejs.org/en/">NodeJS</a>`
