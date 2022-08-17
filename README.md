@@ -5,5 +5,6 @@
 <br/>
 
 
-<img src="https://imgur.com/ORBxPBw.png" alt="https://youtube.com/c/YTJoseGames" >
+<img src="https://imgur.com/ORBxPBw.png" alt="https://youtube.com/c/YTJoseGames">
+
 > Vídeo com todo o tutorial de como funciona e como você irá editar/resolver qualquer problema que aconteça com o script.
