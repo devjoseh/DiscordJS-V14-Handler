@@ -5,4 +5,4 @@
 <br/>
 
 
-<img src="https://imgur.com/ORBxPBw.png" alt="https://youtube.com/c/YTJoseGames" target="_blank" >
+<img src="https://imgur.com/ORBxPBw.png" alt="https://youtube.com/c/YTJoseGames" >
