@@ -23,4 +23,10 @@ Em breve teremos vários outros sistemas todos em V14 para o seu bot. segue a li
 
 Antes de instalar, verifique se você atende aos seguintes requisitos:
 
-* Você instalou a versão mais recente do `NodeJS (16.17.0 LTS)`
+* [Nodejs](https://nodejs.org/en/) v16 ou superior
+
+
+## 🚀 Instalando - DiscordJS V14 Handler
+
+Para instalar esta handler, siga estas etapas:
+
