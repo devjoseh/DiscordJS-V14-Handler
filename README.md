@@ -4,6 +4,8 @@
 <br/>
 <br/>
 
+[![YoutubeLink](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/YTJoseGames)
+
 <img src="https://imgur.com/ORBxPBw.png" alt="https://youtube.com/c/YTJoseGames">
 
 > Veja o vídeo de tutorial de como configurar toda a handler clicando [aqui](https://youtube.com/c/YTJoseGames)
