@@ -4,7 +4,6 @@
 <br/>
 <br/>
 
-
 <img src="https://imgur.com/ORBxPBw.png" alt="https://youtube.com/c/YTJoseGames">
 
 > Vídeo com todo o tutorial de como funciona e como você irá editar/resolver qualquer problema que aconteça com o script.
@@ -39,3 +38,11 @@ npm install
 ```
 
 - Inicie o bot com `node .` no terminal.
+
+## ⚠ Intents
+
+Certifique-se de que suas Intents estão todas ativas para não ocorrer nenhum erro. [Discord Developers](https://discord.com/developers/applications)
+
+<img src="https://imgur.com/LCXObMt.png" alt="https://youtube.com/c/YTJoseGames">
+
+Ative-as e certifique-se de clicar em "Save Changes" ou "Salvar Alterações"!
