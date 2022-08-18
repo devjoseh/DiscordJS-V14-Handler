@@ -49,6 +49,5 @@ Ative-as e certifique-se de clicar em "Save Changes" ou "Salvar Alterações"!
 
 ## 📃 Suporte
 
-https://discord.com/invite/X9WCYfVs5K
-
 [![DiscordBanner](https://invidget.switchblade.xyz/X9WCYfVs5K)](https://discord.gg/X9WCYfVs5K)
+[Server de Suporte](https://discord.gg/X9WCYfVs5K) - Caso qualquer problema venha a ocorrer com você, entre em nosso servidor e abra um ticket!
