@@ -46,3 +46,9 @@ Certifique-se de que suas Intents estão todas ativas para não ocorrer nenhum e
 <img src="https://imgur.com/LCXObMt.png" alt="https://youtube.com/c/YTJoseGames">
 
 Ative-as e certifique-se de clicar em "Save Changes" ou "Salvar Alterações"!
+
+## 📃 Suporte
+
+https://discord.com/invite/X9WCYfVs5K
+
+[![DiscordBanner](https://invidget.switchblade.xyz/X9WCYfVs5K)](https://discord.gg/X9WCYfVs5K)
