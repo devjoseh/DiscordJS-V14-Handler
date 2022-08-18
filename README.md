@@ -56,5 +56,3 @@ Ative-as e certifique-se de clicar em "Save Changes" ou "Salvar Alterações"!
 ## 📝 Licença
 
 Este projeto está licenciado. Veja mais [detalhes](LICENSE.md)
-<br/>
-[⬆ Voltar ao topo](#discordjs-v14-handler)<br>
