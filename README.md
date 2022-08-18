@@ -24,9 +24,18 @@ Em breve teremos vários outros sistemas todos em V14 para o seu bot. segue a li
 Antes de instalar, verifique se você atende aos seguintes requisitos:
 
 * [Nodejs](https://nodejs.org/en/) v16 ou superior
+* [Discord.js](https://github.com/discordjs/discord.js/) v14
 
+## 🚀 Instalando a Handler
 
-## 🚀 Instalando - DiscordJS V14 Handler
+```bash
+git clone https://github.com/YTJoseGames/DiscordJS-V14-Handler.git
+```
 
-Para instalar esta handler, siga estas etapas:
+Após instalar, digite no seu terminal
 
+```bash
+npm install
+```
+
+- Inicie o bot com `node .` no terminal.
