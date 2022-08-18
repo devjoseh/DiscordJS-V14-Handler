@@ -55,4 +55,4 @@ Ative-as e certifique-se de clicar em "Save Changes" ou "Salvar Alterações"!
 
 ## 📝 Licença
 
-Este projeto está licenciado. Veja mais [detalhes](LICENSE.md)
+Este projeto está licenciado. Veja mais [detalhes](https://github.com/YTJoseGames/DiscordJS-V14-Handler/blob/main/LICENSE)
