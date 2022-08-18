@@ -1,0 +1,17 @@
+{
+  "name": "tutoriais-v14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^2.4.1",
+    "discord.js": "^14.2.0",
+    "ms": "^2.1.3"
+  }
+}
